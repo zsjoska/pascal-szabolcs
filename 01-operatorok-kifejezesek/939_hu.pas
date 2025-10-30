@@ -2,18 +2,18 @@
 
 Feladat
 
-Adott 2 természetes szám. Számítsa ki a két megadott szám összegét.
+Adott 2 termeszetes szam. Szamitsa ki a ket megadott szam összeget.
 Bemeneti adatok
 
-A program a billentyűzetről olvas be 2 természetes számot.
+A program a billentyuzetrol olvas be 2 termeszetes szamot.
 Kimeneti adatok
 
-A program a képernyőre írja a két szám összegét.
-Korlátozások és megjegyzések
+A program a kepernyore irja a ket szam összeget.
+Korlatozasok es megjegyzesek
 
-    a két szám kisebb lesz, mint 1.000.000.000
+    a ket szam kisebb lesz, mint 1.000.000.000
 
-Példa:
+Pelda:
 
 Bemenet
 
@@ -25,3 +25,13 @@ Kimenet
 
 
 }
+
+var
+a:Integer;
+b:Integer;
+
+begin
+  readln(a);
+  readln(b);
+  writeln(a+b);
+end.

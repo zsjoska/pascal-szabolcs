@@ -1,19 +1,19 @@
 {
 Feladat
 
-Írjon programot, amely a billentyűzetről bekér egy számot a (egyjegyű), és kiírja a következő kifejezés értékét: a^16.
-Alkalmazza a lehető legkevesebb szorzást.
+Irjon programot, amely a billentyuzetrol beker egy szamot a (egyjegyu), es kiirja a következo kifejezes erteket: a^16.
+Alkalmazza a leheto legkevesebb szorzast.
 Bemeneti adatok
 
-A program a billentyűzetről olvassa be az a számot.
+A program a billentyuzetrol olvassa be az a szamot.
 Kimeneti adatok
 
-A program kiírja a kiszámított értéket.
-Korlátozások és megjegyzések
+A program kiirja a kiszamitott erteket.
+Korlatozasok es megjegyzesek
 
     0 ≤ a ≤ 9
 
-Példa:
+Pelda:
 
 Bemenet
 

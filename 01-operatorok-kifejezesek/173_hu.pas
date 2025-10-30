@@ -1,20 +1,20 @@
 {
-Írjon programot, amely beolvassa egy tanuló három jegyét a billentyűzetről és kiszámítja azok átlagát.
+Irjon programot, amely beolvassa egy tanulo harom jegyet a billentyuzetrol es kiszamitja azok atlagat.
 
 Bemeneti adatok
 
-A program a billentyűzetről olvas be három természetes számot x, y, z, amelyek a jegyeket képviselik.
+A program a billentyuzetrol olvas be harom termeszetes szamot x, y, z, amelyek a jegyeket kepviselik.
 
 Kimeneti adatok
 
-A program kiírja a kiszámított átlagot, pontosan két tizedesjeggyel, kerekítés nélkül.
+A program kiirja a kiszamitott atlagot, pontosan ket tizedesjeggyel, kerekites nelkul.
 
-Korlátozások és megjegyzések
+Korlatozasok es megjegyzesek
 
-    a három beolvasott szám nagyobb, mint 0 és legfeljebb 10
-    az átlagot pontosan két tizedesjeggyel kell megjeleníteni, kerekítés nélkül
+    a harom beolvasott szam nagyobb, mint 0 es legfeljebb 10
+    az atlagot pontosan ket tizedesjeggyel kell megjeleniteni, kerekites nelkul
 
-Példa
+Pelda
 
 Bemenet
 

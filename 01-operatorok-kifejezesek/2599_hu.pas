@@ -1,18 +1,18 @@
 {
 Feladat
 
-Adott két természetes szám, x és y. Számítsa ki az összegük utolsó számjegyét.
+Adott ket termeszetes szam, x es y. Szamitsa ki az összeguk utolso szamjegyet.
 Bemeneti adatok
 
-A program beolvassa a billentyűzetről x és y értékét.
+A program beolvassa a billentyuzetrol x es y erteket.
 Kimeneti adatok
 
-A program kiírja az x+y összeg utolsó számjegyét.
-Korlátozások és megjegyzések
+A program kiirja az x+y összeg utolso szamjegyet.
+Korlatozasok es megjegyzesek
 
     1 ≤ x,y < 1.000.000
 
-Példa:
+Pelda:
 
 Bemenet
 

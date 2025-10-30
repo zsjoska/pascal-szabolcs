@@ -1,21 +1,21 @@
 {
 Feladat
 
-Írjon programot, amely a képernyőre kiír egy jókívánságot a szeretteinek!
+Irjon programot, amely a kepernyore kiir egy jokivansagot a szeretteinek!
 Bemeneti adatok
 
-A program nem olvas be semmilyen értéket.
+A program nem olvas be semmilyen erteket.
 Kimeneti adatok
 
-A program kiír a képernyőre egy jókívánságot a szeretteinek.
-Korlátozások és megjegyzések
+A program kiir a kepernyore egy jokivansagot a szeretteinek.
+Korlatozasok es megjegyzesek
 
-    tetszőleges jókívánság elfogadható
+    tetszoleges jokivansag elfogadhato
 
-Példa
+Pelda
 
 Kimenet
 
-Boldog ünnepeket!
+Boldog unnepeket!
 
 }
