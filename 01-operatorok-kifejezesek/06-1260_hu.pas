@@ -1,7 +1,7 @@
 {
 Feladat
 
-Irjon programot, amely a billentyuzetrol beker egy szamot a (egyjegyu), es kiirja a következo kifejezes erteket: a^16.
+Irjon programot, amely a billentyuzetrol beker egy szamot a (egyjegyu), es kiirja a kovetkezo kifejezes erteket: a^16.
 Alkalmazza a leheto legkevesebb szorzast.
 Bemeneti adatok
 

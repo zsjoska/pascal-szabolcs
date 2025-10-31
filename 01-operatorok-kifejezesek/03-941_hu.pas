@@ -1,7 +1,7 @@
 {
 Feladat
 
-Ket termeszetes szamot olvasunk be. Irjuk ki az összeguket, a kulönbseguket, a szorzatukat es a hanyadosukat ebben a sorrendben, egy-egy szoközzel elvalasztva.
+Ket termeszetes szamot olvasunk be. Irjuk ki az osszeguket, a kulonbseguket, a szorzatukat es a hanyadosukat ebben a sorrendben, egy-egy szokozzel elvalasztva.
 Korlatozasok es megjegyzesek
 
     mindket beolvasott szam kisebb lesz, mint 500;

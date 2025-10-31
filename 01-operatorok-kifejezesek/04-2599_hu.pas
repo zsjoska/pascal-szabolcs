@@ -1,13 +1,13 @@
 {
 Feladat
 
-Adott ket termeszetes szam, x es y. Szamitsa ki az összeguk utolso szamjegyet.
+Adott ket termeszetes szam, x es y. Szamitsa ki az osszeguk utolso szamjegyet.
 Bemeneti adatok
 
 A program beolvassa a billentyuzetrol x es y erteket.
 Kimeneti adatok
 
-A program kiirja az x+y összeg utolso szamjegyet.
+A program kiirja az x+y osszeg utolso szamjegyet.
 Korlatozasok es megjegyzesek
 
     1 ≤ x,y < 1.000.000

@@ -18,6 +18,7 @@ find . -name "*.pas" -type f | while read -r file; do
         -e 's/ó/o/g' \
         -e 's/Ó/O/g' \
         -e 's/ő/o/g' \
+        -e 's/ö/o/g' \
         -e 's/Ő/O/g' \
         -e 's/ú/u/g' \
         -e 's/Ú/U/g' \

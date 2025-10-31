@@ -2,13 +2,13 @@
 
 Feladat
 
-Adott 2 termeszetes szam. Szamitsa ki a ket megadott szam összeget.
+Adott 2 termeszetes szam. Szamitsa ki a ket megadott szam osszeget.
 Bemeneti adatok
 
 A program a billentyuzetrol olvas be 2 termeszetes szamot.
 Kimeneti adatok
 
-A program a kepernyore irja a ket szam összeget.
+A program a kepernyore irja a ket szam osszeget.
 Korlatozasok es megjegyzesek
 
     a ket szam kisebb lesz, mint 1.000.000.000
