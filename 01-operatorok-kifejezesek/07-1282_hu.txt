@@ -1,0 +1,23 @@
+Feladat
+
+Adott egy szam. Jelenitse meg a negyzetgyoket.
+Bemeneti adatok
+
+A program beolvassa a billentyuzetrol az n szamot.
+Kimeneti adatok
+
+A program kiirja a kepernyore az r termeszetes szamot, amely az n negyzetgyoke.
+Korlatozasok es megjegyzesek
+
+    1 ≤ n ≤ 1000
+    minden tesztben az n szam teljes negyzet lesz
+
+Pelda:
+
+Bemenet
+
+9
+
+Kimenet
+
+3

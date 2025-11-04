@@ -1,5 +1,5 @@
 {
-Feladat
+Feladat 1273
 
 Ket termeszetes szamot olvasunk be. Irjuk ki az osszeguket, a kulonbseguket, a szorzatukat es a hanyadosukat ebben a sorrendben, egy-egy szokozzel elvalasztva.
 Korlatozasok es megjegyzesek

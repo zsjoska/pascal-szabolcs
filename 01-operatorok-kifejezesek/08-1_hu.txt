@@ -1,0 +1,27 @@
+{
+
+
+Adott 2 egesz szam.
+Feladat
+
+Szamitsa ki a 2 megadott szam osszeget.
+Bemeneti adatok
+
+A sum.in bemeneti fajl az elso sorban 2 egesz szamot tartalmaz, amelyek egy szokozzel vannak elvalasztva.
+Kimeneti adatok
+
+A sum.out kimeneti fajl az elso sorban az S szamot fogja tartalmazni, amely a ket szam osszege.
+Korlatozasok es megjegyzesek
+
+    a bemeneti fajlban levo szamok abszolut erteke kisebb lesz mint 1.000.000.000
+
+Pelda:
+
+sum.in
+
+12 23
+
+sum.out
+
+35
+}
