@@ -1,0 +1,27 @@
+{
+
+Feladat
+
+Irjon programot, amely beolvassa a billentyuzetrol egy termeszetes szamot es ellenorzi, hogy a szam paros vagy paratlan.
+Bemeneti adatok
+
+A program a billentyuzetrol olvas be egy termeszetes szamot n.
+Kimeneti adatok
+
+A program kiirja a kepernyore az "n PAR" uzenet, ha a beolvasott n szam paros, 
+illetve az "n INPAR" uzenet ellenkezo esetben, a peldanak megfeleloen.
+Korlatozasok es megjegyzesek
+
+    0 < n < 1.000.000.000
+
+Pelda:
+
+Bemenet
+
+2012
+
+Kimenet
+
+2012 PAR
+
+}

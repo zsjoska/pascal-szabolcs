@@ -1,0 +1,25 @@
+{
+Adott 3 egesz szam.
+Feladat
+
+Szamitsa ki a 3 megadott szam minimumat.
+Bemeneti adatok
+
+A program beolvassa a billentyuzetrol 3 egesz szamot, amelyek szokozokkel vannak elvalasztva.
+Kimeneti adatok
+
+A program kiirja a kepernyore a beolvasott szamok kozul a legkisebbet.
+Korlatozasok es megjegyzesek
+
+    a beolvasott szamok abszolut erteke kisebb lesz mint 1.000.000.000
+
+Pelda:
+
+Bemenet
+
+125 68 200
+
+Kimenet
+
+68
+}
