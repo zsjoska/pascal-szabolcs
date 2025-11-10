@@ -8,8 +8,8 @@ Bemeneti adatok
 A program a billentyuzetrol olvas be egy termeszetes szamot n.
 Kimeneti adatok
 
-A program kiirja a kepernyore az "n PAR" uzenet, ha a beolvasott n szam paros, 
-illetve az "n INPAR" uzenet ellenkezo esetben, a peldanak megfeleloen.
+A program kiirja a kepernyore az "n este par" uzenet, ha a beolvasott n szam paros, 
+illetve az "n este inpar" uzenet ellenkezo esetben, a peldanak megfeleloen.
 Korlatozasok es megjegyzesek
 
     0 < n < 1.000.000.000
@@ -22,6 +22,6 @@ Bemenet
 
 Kimenet
 
-2012 PAR
+2012 este par
 
 }
