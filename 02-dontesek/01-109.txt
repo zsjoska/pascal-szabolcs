@@ -1,8 +1,9 @@
 {
-
 Feladat
 
-Irjon programot, amely beolvassa a billentyuzetrol egy termeszetes szamot es ellenorzi, hogy a szam paros vagy paratlan.
+Irjon programot, amely beolvassa a billentyuzetrol egy termeszetes szamot es ellenorzi, 
+hogy a szam paros vagy paratlan.
+
 Bemeneti adatok
 
 A program a billentyuzetrol olvas be egy termeszetes szamot n.

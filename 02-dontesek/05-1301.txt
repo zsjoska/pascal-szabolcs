@@ -1,0 +1,35 @@
+{
+https://www.youtube.com/watch?v=SktqG17w0V4&list=PLReNHlP5ke2TuueVoV3007le-4X13UHXH&index=7
+Feladat
+
+Harom valos szamot olvasunk be a billentyuzetrol. Ellenorizni kell, hogy egyenlo 
+szaru haromszog oldalait alkotjak-e.
+
+Bemeneti adatok
+
+A program beolvassa a billentyuzetrol harom szamot: a b c.
+Kimeneti adatok
+
+A program kiirja a kepernyore az alabbi uzenet egyiket: 
+    Formeaza triunghi isoscel - abban az esetben, ha a haromszog egyenlo szaru; 
+    Nu formeaza triunghi isoscel - abban az esetben, ha a haromszog szabalyos vagy altalanos; 
+    Nu formeaza triunghi - abban az esetben, ha a szamok nem lehetnek egy haromszog oldalai.
+Korlatozasok es megjegyzesek
+
+    a szabalyos haromszog nem szamit egyenlo szarunak
+    az altalanos haromszog oldalai paronkent kulonboznek
+
+Pelda:
+
+Bemenet
+
+5 7.5 5
+
+Kimenet
+
+Formeaza triunghi isoscel
+
+Magyarazat
+
+a 5, 7.5 es 5 szamok egy egyenlo szaru haromszog oldalait alkotjak.
+}

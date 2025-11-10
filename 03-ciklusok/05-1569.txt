@@ -1,0 +1,35 @@
+{
+https://www.youtube.com/watch?v=dkQxyu4gd0g&list=PLReNHlP5ke2TuueVoV3007le-4X13UHXH&index=8
+Feladat
+
+Beolvassuk az n termeszetes szamot. Jelenitse meg a peldahoz hasonlo abrat.
+Bemeneti adatok
+
+A program beolvassa a billentyuzetrol az n szamot.
+Kimeneti adatok
+
+A program kiirja az abrat, a peldahoz hasonloan.
+Korlatozasok es megjegyzesek
+
+    1 ≤ n ≤ 9
+
+Pelda:
+
+Bemenet
+
+3
+
+Kimenet
+
+1
+22
+22
+333
+333
+333
+
+Magyarazat
+
+Az 1 szamjegy egyszer jelent meg, egy sorban. A 2 szamjegy 2-szer jelent meg, 
+2 sorban. A 3 szamjegy 3-szor jelent meg, 3 sorban.
+}

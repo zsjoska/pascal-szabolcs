@@ -30,3 +30,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+# freepascal files
+GPATH
+GRTAGS
+GTAGS
+*.bak
+GTEMP.pas

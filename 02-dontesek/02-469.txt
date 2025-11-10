@@ -1,7 +1,9 @@
 {
 Feladat
 
-Adott harom termeszetes szam a b x. Ellenorizni kell, hogy az x szam tartozik-e az [a,b] intervallumhoz.
+Adott harom termeszetes szam a b x. Ellenorizni kell, hogy az x szam tartozik-e 
+az [a,b] intervallumhoz.
+
 Bemeneti adatok
 
 A program beolvassa a billentyuzetrol az a b x szamokat.

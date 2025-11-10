@@ -1,0 +1,28 @@
+{
+https://www.youtube.com/watch?v=dkQxyu4gd0g&list=PLReNHlP5ke2TuueVoV3007le-4X13UHXH&index=8
+Feladat
+
+Adott n termeszetes szam. Meg kell hatarozni az utolso ket paratlan szamot, nem feltetlen kulonbozoket, a megadottak kozul.
+Bemeneti adatok
+
+A program beolvassa a billentyuzetrol az n szamot, majd n termeszetes szamot, amelyek tobb sorban vannak elhelyezve.
+Kimeneti adatok
+
+A program kiirja a kepernyore az utolso ket paratlan szamot a megadottak kozul, abban a sorrendben, ahogyan beolvastak oket. Ha nem olvastak be elegendo paratlan szamot, csak a Numere insuficiente uzenetet kell kiirni.
+Korlatozasok es megjegyzesek
+
+    0 < n <= 10.000
+    a beolvasott n szam legfeljebb 9 szamjegybol all
+
+Pelda:
+
+Bemeneti adatok
+
+8
+12 15 68 13 17
+90 31 42 
+
+Kimeneti adatok
+
+17 31
+}

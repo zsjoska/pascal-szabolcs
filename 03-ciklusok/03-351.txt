@@ -1,0 +1,35 @@
+{
+https://www.youtube.com/watch?v=dkQxyu4gd0g&list=PLReNHlP5ke2TuueVoV3007le-4X13UHXH&index=8
+Feladat
+
+Beolvassuk az n termeszetes szamot. Jelenitse meg a kovetkezo szampiramist:
+
+1
+1 2
+1 2 3
+.......
+1 2 3 ... n
+
+Bemeneti adatok
+
+A program beolvassa a billentyuzetrol az n szamot.
+Kimeneti adatok
+
+A program kiirja a kepernyore az 1 szamot, a masodik sorban az 1 2 szamokat, a harmadik sorban az 1 2 3 szamokat, stb, az n-edik sorban az 1 2 3 ... n szamokat. Minden sorban a szamok pontosan egy szokozzel vannak elvalasztva.
+Korlatozasok es megjegyzesek
+
+    1 ≤ n ≤ 20
+
+Pelda:
+
+Bemeneti adatok
+
+4
+
+Kimeneti adatok
+
+1
+1 2
+1 2 3
+1 2 3 4
+}

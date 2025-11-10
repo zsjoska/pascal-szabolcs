@@ -1,0 +1,29 @@
+{
+https://www.youtube.com/watch?v=jPGNcJ-tJVY&list=PLReNHlP5ke2TuueVoV3007le-4X13UHXH&index=8
+
+Feladat
+
+Szamokat olvasunk be a billentyuzetrol nulla megjelenteseig. Meg kell hatarozni, 
+hogy ezek kozul hany volt paros.
+
+Bemeneti adatok
+
+A program egesz szamokat olvas be a billentyuzetrol. A beolvasas a 0 ertek beirasakor veget er, amely nem szamit bele.
+Kimeneti adatok
+
+A program kiirja a kepernyore a K szamot, amely a beolvasott paros szamok szamat jelenti.
+Korlatozasok es megjegyzesek
+
+    a beolvasott szamok a (-1.000.000,1.000.000) intervallumba tartoznak;
+    abban az esetben, ha egyetlen szam sem paros, a NU EXISTA uzenetet kell kiirni.
+
+Pelda:
+
+Bemenet
+
+1 2 3 4 5 6 0
+
+Kimenet
+
+3
+}

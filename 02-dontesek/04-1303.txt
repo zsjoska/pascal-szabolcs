@@ -1,7 +1,11 @@
 {
+https://www.youtube.com/watch?v=SktqG17w0V4&list=PLReNHlP5ke2TuueVoV3007le-4X13UHXH&index=6
 Feladat
 
-Adott ket termeszetes szam es egy szimbolum az egyik muvelet jelolese: +, -, *, / (osszeadas, kivonas, szorzas, osztas). Meg kell hatarozni a muvelet eredmenyet a ket szamra alkalmazva.
+Adott ket termeszetes szam es egy szimbolum az egyik muvelet jelolese: 
++, -, *, / (osszeadas, kivonas, szorzas, osztas). Meg kell hatarozni a muvelet eredmenyet 
+a ket szamra alkalmazva.
+
 Bemeneti adatok
 
 A program beolvassa a billentyuzetrol az A B szamokat, majd a muvelet szimbolumot.
@@ -11,7 +15,8 @@ A program kiirja a kepernyore az R szamot, amely a muvelet eredmenye.
 Korlatozasok es megjegyzesek
 
     mind a megadott szamoknak, mind a muvelet eredmenyenek legfeljebb 9 szamjegye van;
-    az A es B szamok nem feltetlen novekvo vagy csokkeno sorrendben vannak; a kivonas es osztas muveleteknel az elso operandus a nagyobb szam lesz;
+    az A es B szamok nem feltetlen novekvo vagy csokkeno sorrendben vannak; a kivonas es 
+    osztas muveleteknel az elso operandus a nagyobb szam lesz;
     / a hanyados meghatarozosat jelenti egesz osztasnal.
 
 Pelda:

@@ -1,0 +1,38 @@
+{
+https://www.youtube.com/watch?v=dkQxyu4gd0g&list=PLReNHlP5ke2TuueVoV3007le-4X13UHXH&index=8
+Feladat
+
+Beolvassuk az n termeszetes szamot, es ket karaktert: c es d. Jelenitse meg a kovetkezo negyzetet, amely n sorbol es n oszlopbol all:
+
+ccc...cc
+cdd...dc
+....
+cdd...dc
+ccc...cc
+
+Bemeneti adatok
+
+A program beolvassa a billentyuzetrol az n szamot es a c d karaktereket.
+Kimeneti adatok
+
+A program kiirja a kepernyore a fent leirtak negyzetet.
+Korlatozasok es megjegyzesek
+
+    3 ≤ n ≤ 20
+    c es d olyan karakterek, amelyek ASCII kodja 33 es 126 kozott van, beleertve.
+
+Pelda:
+
+Bemenet
+
+4 * #
+
+Kimenet
+
+****
+*##*
+*##*
+****
+
+
+}

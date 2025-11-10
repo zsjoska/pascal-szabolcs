@@ -1,0 +1,24 @@
+{
+https://www.youtube.com/watch?v=dkQxyu4gd0g&list=PLReNHlP5ke2TuueVoV3007le-4X13UHXH&index=8
+Feladat
+
+Adott n. Jelenitse meg a 10^n erteket.
+Bemeneti adatok
+
+A program beolvassa a billentyuzetrol az n szamot.
+Kimeneti adatok
+
+A program kiirja a kepernyore a P szamot, amely a 10^n erteket jelenti.
+Korlatozasok es megjegyzesek
+
+• 0 ≤ n ≤ 1.000
+Pelda:
+
+Bemenet
+
+5
+
+Kimenet
+
+100000
+}
